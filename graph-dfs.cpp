@@ -1,3 +1,7 @@
+//Implementation of Depth First Search 
+//REF : CLRS , http://www.geeksforgeeks.org/applications-of-depth-first-search/
+// Jan 20,2015		Kumar Gaurav
+
 #include <iostream>
 #include <vector>
 #include <list>

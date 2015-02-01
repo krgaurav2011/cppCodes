@@ -1,4 +1,4 @@
-//JAN 2015 LONG 
+//codechef JAN 2015 LONG 
 
 #include <bits/stdc++.h>
 using namespace std ;

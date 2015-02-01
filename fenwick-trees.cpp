@@ -1,7 +1,7 @@
 // Fenwick Trees / BIT 
 // O(logn)
 // Kumar Gaurav 	Jan26,2015
-// More on Fenwick Trees nad implementation : https://kartikkukreja.wordpress.com/2013/12/02/range-updates-with-bit-fenwick-tree/
+// More on Fenwick Trees andd implementation : https://kartikkukreja.wordpress.com/2013/12/02/range-updates-with-bit-fenwick-tree/
 
 #include <bits/stdc++.h>
 using namespace std ;

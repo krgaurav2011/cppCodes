@@ -1,4 +1,5 @@
-//JAN 2015 LONG 
+//codechef  JAN 2015 LONG
+// Kumar gaurav  
 
 #include <bits/stdc++.h>
 using namespace std ;
