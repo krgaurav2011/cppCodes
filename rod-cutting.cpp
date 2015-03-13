@@ -1,8 +1,3 @@
-//DP
-//Kumar Gaurav 	 	Jan 15/2015
-
-
-
 #include <bits/stdc++.h>
 using namespace std ;
 #define ll long long int

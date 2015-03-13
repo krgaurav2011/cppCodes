@@ -1,7 +1,3 @@
-//Implementation of Breadth First Search 
-// REF : CLRS , http://www.geeksforgeeks.org/applications-of-breadth-first-search/
-// Jan 19,2015 			Kumar Gaurav
-
 #include <iostream>
 #include <list>
 #include <vector>
