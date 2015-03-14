@@ -1,3 +1,7 @@
+//Assigmnment 1
+//Algorithms: Design and Analysis, Part 1
+//Kumar Gaurav		Jan28,2015
+
 #include <bits/stdc++.h>
 using namespace std ;
 #define ll long long int
