@@ -1,6 +1,6 @@
 /* Date : DEC232014
  * Kumar Gaurav
- * Quick Sort
+ * 
  * not complete
  */
 

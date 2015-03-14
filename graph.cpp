@@ -1,8 +1,3 @@
-//Implementation of Graph DS 
-//REF : CLRS Book
-// Jan 20,2015		Kumar Gaurav
-
-
 #include <iostream>
 #include <list>
 #include <vector>

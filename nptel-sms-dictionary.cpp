@@ -1,9 +1,3 @@
-/* NPTEL MOOC Assgnment 1,SMS Dictionary
- * Date : JAN23,2015
- * Kumar Gaurav
- */
-
-
 #include<bits/stdc++.h>
 #define ll long long int
 
